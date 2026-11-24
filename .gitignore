@@ -169,5 +169,5 @@ Thumbs.db
 /out/
 
 gradle.properties
-.vscode/
+
 bin/
